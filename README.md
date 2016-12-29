@@ -12,7 +12,9 @@ Stuff I'm installing on my new MacBook Pro
   * [X] Bridge
   * [X] Lightroom
   * [X] Acrobat
-* [ ] Sublime Text 3
+* [X] Sublime Text 3
+ * [X] Package Control
+ * [X] CLI tool
 * [ ] MAMP Pro
 * [ ] Sketch
 * [ ] FTP Client (Cyberduck)
