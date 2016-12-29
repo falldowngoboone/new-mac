@@ -2,7 +2,7 @@
 Stuff I'm installing on my new MacBook Pro
 
 * [X] XCode
-* [ ] Homebrew
+* [ ] Homebrew?
 * [ ] Creative Cloud Apps
   * [ ] Photoshop
   * [ ] Illustrator
@@ -11,3 +11,5 @@ Stuff I'm installing on my new MacBook Pro
 * [ ] Node
 * [ ] MAMP Pro
 * [ ] CodeKit?
+* [ ] Sketch
+* [ ] FTP Client (Cyberduck?)
