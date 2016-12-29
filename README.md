@@ -2,15 +2,22 @@
 Stuff I'm installing on my new MacBook Pro
 
 * [X] XCode
-* [ ] Homebrew?
 * [ ] Creative Cloud Apps
   * [ ] Photoshop
   * [ ] Illustrator
   * [ ] InDesign
-* [ ] Sublime Text 3 or Atom?
+* [ ] Sublime Text 3
 * [ ] NVM
 * [ ] Node
 * [ ] MAMP Pro
-* [ ] CodeKit?
 * [ ] Sketch
-* [ ] FTP Client (Cyberduck?)
+* [ ] FTP Client (Cyberduck)
+* [ ] Chrome (current and Canary)
+* [ ] FF (current and edge)
+* [ ] Safari TP
+
+## Questionable
+
+* [ ] Homebrew
+* [ ] Atom
+* [ ] CodeKit
