@@ -5,13 +5,13 @@ Stuff I'm installing on my new MacBook Pro
 * [X] NVM
 * [X] Node
 * [X] Creative Cloud
-* [ ] Creative Cloud Apps
-  * [ ] Photoshop
-  * [ ] Illustrator
-  * [ ] InDesign
-  * [ ] Bridge
-  * [ ] Lightroom
-  * [ ] Acrobat
+* [X] Creative Cloud Apps
+  * [X] Photoshop
+  * [X] Illustrator
+  * [X] InDesign
+  * [X] Bridge
+  * [X] Lightroom
+  * [X] Acrobat
 * [ ] Sublime Text 3
 * [ ] MAMP Pro
 * [ ] Sketch
