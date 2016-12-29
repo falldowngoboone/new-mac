@@ -1,37 +1,38 @@
 # new-mac
 Stuff I'm installing on my new MacBook Pro
 
-* [X] XCode
-* [X] NVM
-* [X] Node
-* [X] Creative Cloud
-* [X] Creative Cloud Apps
-  * [X] Photoshop
-  * [X] Illustrator
-  * [X] InDesign
-  * [X] Bridge
-  * [X] Lightroom
-  * [X] Acrobat
-* [X] Sublime Text 3
-  * [X] Package Control
-  * [X] CLI tool
-  * [X] SidebarEnhancements
-  * [X] Plain Tasks
-  * [X] Emmet
-  * [X] SCSS syntax
-  * [X] GitGutter
-  * [X] Babel syntax
+* [X] [XCode](https://developer.apple.com/xcode/)
+* [X] [NVM](https://github.com/creationix/nvm)
+* [X] [Node](https://nodejs.org/en/) (`nvm install node`)
+* [X] [Creative Cloud Desktop](https://www.adobe.com/creativecloud/desktop-app.html)
+* [X] Creative Cloud Apps (install via desktop app)
+  * [X] [Photoshop](http://www.adobe.com/products/photoshop.html)
+  * [X] [Illustrator](https://www.adobe.com/products/illustrator.html)
+  * [X] [InDesign](https://www.adobe.com/products/indesign.html)
+  * [X] [Bridge](https://www.adobe.com/products/bridge.html)
+  * [X] [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+  * [X] [Acrobat](https://acrobat.adobe.com/us/en/acrobat/acrobat-pro-cc.html)
+  * [ ] [Animate](https://www.adobe.com/products/animate.html) (for prototyping animations...don't judge)
+* [X] [Sublime Text 3](https://www.sublimetext.com/3)
+  * [X] [Package Control](https://packagecontrol.io) - installed through Sublime menu
+  * [X] [CLI tool](https://www.sublimetext.com/docs/3/osx_command_line.html) - touch `~/bin` and add to `$PATH` in `.bash_profile` (`PATH=~/bin:$PATH`)
+  * [X] [SidebarEnhancements](https://github.com/titoBouzout/SideBarEnhancements/tree/st3) (Sublime Text 3 specific)
+  * [X] [Plain Tasks](https://github.com/aziz/PlainTasks) - make todo lists in .todo files
+  * [X] [Emmet](http://emmet.io) - the ultimate little coding helper
+  * [X] [Sass syntax](https://github.com/nathos/sass-textmate-bundle)
+  * [X] [GitGutter](https://github.com/jisaacks/GitGutter) - track file changes line-by-line in git repos
+  * [X] [Babel syntax](https://github.com/babel/babel-sublime) - don't forget to follow the instructions for after the install
   * [X] [User Settings](https://gist.github.com/falldowngoboone/a94a31eec5a0b5d91fb335049a45a4cf)
   * [X] No Linting - _I would prefer linting not be done by editor but be part of the build process_
-* [ ] MAMP Pro
-* [X] Sketch
-* [ ] FTP Client (Cyberduck)
-* [ ] Chrome (current and Canary)
-* [ ] FF (current and edge)
-* [ ] Safari TP
+* [X] [Sketch](https://www.sketchapp.com)
+* [ ] [MAMP Pro](https://www.mamp.info/en/downloads/older-versions/) - currently only have v3 license
+* [ ] FTP Client ([Cyberduck](https://cyberduck.io))
+* [ ] Chrome ([current](https://www.google.com/chrome/) and [Canary](https://www.google.com/chrome/browser/canary.html))
+* [ ] FF ([current](https://www.mozilla.org/en-US/firefox/products/) and [newer](https://www.mozilla.org/en-US/firefox/channel/desktop/))
+* [ ] [Safari TP](https://developer.apple.com/safari/technology-preview/)
 
 ## Questionable
 
-* [ ] Homebrew
-* [ ] Atom
-* [ ] CodeKit
+* [ ] [Homebrew](http://brew.sh)
+* [ ] [Atom](https://atom.io)
+* [ ] [CodeKit](https://codekitapp.com) - the "endorsements" on this page win the internet
