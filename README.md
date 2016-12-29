@@ -8,6 +8,7 @@ Stuff I'm installing on my new MacBook Pro
   * [ ] Illustrator
   * [ ] InDesign
 * [ ] Sublime Text 3 or Atom?
+* [ ] NVM
 * [ ] Node
 * [ ] MAMP Pro
 * [ ] CodeKit?
