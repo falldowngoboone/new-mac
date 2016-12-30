@@ -27,8 +27,8 @@ Stuff I'm installing on my new MacBook Pro
 * [X] [Sketch](https://www.sketchapp.com)
 * [ ] [MAMP Pro](https://www.mamp.info/en/downloads/older-versions/) - currently only have v3 license
 * [ ] FTP Client ([Cyberduck](https://cyberduck.io))
-* [ ] Chrome ([current](https://www.google.com/chrome/) and [Canary](https://www.google.com/chrome/browser/canary.html))
-* [ ] FF ([current](https://www.mozilla.org/en-US/firefox/products/) and [newer](https://www.mozilla.org/en-US/firefox/channel/desktop/))
+* [X] Chrome ([current](https://www.google.com/chrome/) and [Canary](https://www.google.com/chrome/browser/canary.html))
+* [X] FF ([current](https://www.mozilla.org/en-US/firefox/products/) and [newer](https://www.mozilla.org/en-US/firefox/channel/desktop/))
 * [ ] [Safari TP](https://developer.apple.com/safari/technology-preview/)
 
 ## Questionable
