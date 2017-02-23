@@ -25,6 +25,7 @@ Stuff I'm installing on my new MacBook Pro
   * [X] [Babel syntax](https://github.com/babel/babel-sublime) - don't forget to follow the instructions for after the install
   * [X] [User Settings](https://gist.github.com/falldowngoboone/a94a31eec5a0b5d91fb335049a45a4cf)
   * [X] No Linting - _I would prefer linting not be done by editor but be part of the build process_
+  * [X] [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing)
 * [X] [Sketch](https://www.sketchapp.com)
 * [X] Chrome ([current](https://www.google.com/chrome/) and [Canary](https://www.google.com/chrome/browser/canary.html))
 * [X] FF ([current](https://www.mozilla.org/en-US/firefox/products/) and [newer](https://www.mozilla.org/en-US/firefox/channel/desktop/))
