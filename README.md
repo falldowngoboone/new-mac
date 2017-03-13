@@ -30,7 +30,7 @@ Stuff I'm installing on my new MacBook Pro
 * [X] Chrome ([current](https://www.google.com/chrome/) and [Canary](https://www.google.com/chrome/browser/canary.html))
 * [X] FF ([current](https://www.mozilla.org/en-US/firefox/products/) and [newer](https://www.mozilla.org/en-US/firefox/channel/desktop/))
 * [X] [Safari TP](https://developer.apple.com/safari/technology-preview/)
-* [ ] [MAMP Pro](https://www.mamp.info/en/downloads/older-versions/) - currently only have v3 license
+* [X] [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description)
 
 ## Questionable
 
@@ -38,3 +38,4 @@ Stuff I'm installing on my new MacBook Pro
 * [ ] [Homebrew](http://brew.sh) - package management for Mac; not sure if this is worth changing my install architecture
 * [ ] [Atom](https://atom.io) - GitHub's text editor; I think I'm sticking with Sublime Text for now
 * [ ] [CodeKit](https://codekitapp.com) - the "endorsements" on this page win the internet; I'm building a boilerplate that pretty much does what CK does without the .codekit files
+* [ ] [MAMP Pro](https://www.mamp.info/en/downloads/older-versions/) - replace with Docker containers
