@@ -31,6 +31,7 @@ Stuff I'm installing on my new MacBook Pro
 * [X] FF ([current](https://www.mozilla.org/en-US/firefox/products/) and [newer](https://www.mozilla.org/en-US/firefox/channel/desktop/))
 * [X] [Safari TP](https://developer.apple.com/safari/technology-preview/)
 * [X] [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description)
+* [X] [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - easy peasy virtualization
 
 ## Questionable
 
