@@ -32,6 +32,7 @@ Stuff I'm installing on my new MacBook Pro
 * [X] [Safari TP](https://developer.apple.com/safari/technology-preview/)
 * [X] [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description)
 * [X] [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - easy peasy virtualization
+* [X] [ImageOptim](https://imageoptim.com/mac) - optimize images and stuff
 
 ## Questionable
 
