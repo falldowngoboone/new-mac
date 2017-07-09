@@ -23,7 +23,7 @@ Stuff I'm installing on my new MacBook Pro
   * [X] [Sass syntax](https://github.com/nathos/sass-textmate-bundle)
   * [X] [GitGutter](https://github.com/jisaacks/GitGutter) - track file changes line-by-line in git repos
   * [X] [Babel syntax](https://github.com/babel/babel-sublime) - don't forget to follow the instructions for after the install
-  * [X] [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme)
+  * [X] [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme) - make sure to activate the theme as per the instructions
   * [X] [User Settings](https://gist.github.com/falldowngoboone/a94a31eec5a0b5d91fb335049a45a4cf)
   * [X] No Linting - _I would prefer linting not be done by editor but be part of the build process_
   * [X] [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing)
