@@ -26,7 +26,7 @@ Stuff I'm installing on my new MacBook Pro
   * [X] [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme) - make sure to activate the theme as per the instructions
   * [X] [User Settings](https://gist.github.com/falldowngoboone/a94a31eec5a0b5d91fb335049a45a4cf)
   * [X] No Linting - _I would prefer linting not be done by editor but be part of the build process_
-  * [X] [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing)
+  * [X] [Markdown Editing](https://github.com/SublimeText-Markdown/MarkdownEditing) - set the theme in the syntax specific prefs as per instructions (I currently like the arc-dark theme)
 * [X] [Sketch](https://www.sketchapp.com)
 * [X] Chrome ([current](https://www.google.com/chrome/) and [Canary](https://www.google.com/chrome/browser/canary.html))
 * [X] FF ([current](https://www.mozilla.org/en-US/firefox/products/) and [newer](https://www.mozilla.org/en-US/firefox/channel/desktop/))
