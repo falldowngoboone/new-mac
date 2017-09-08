@@ -5,7 +5,7 @@ Stuff I'm installing on my new MacBook Pro
 * [X] [NVM](https://github.com/creationix/nvm)
 * [X] [Node](https://nodejs.org/en/) (`nvm install node`)
 * [X] [Creative Cloud Desktop](https://www.adobe.com/creativecloud/desktop-app.html)
-* [X] Creative Cloud Apps (install via desktop app)
+* [X] Creative Cloud Apps (install via desktop app, assumes CC license)
   * [X] [Photoshop](http://www.adobe.com/products/photoshop.html)
   * [X] [Illustrator](https://www.adobe.com/products/illustrator.html)
   * [X] [InDesign](https://www.adobe.com/products/indesign.html)
@@ -35,10 +35,13 @@ Stuff I'm installing on my new MacBook Pro
 * [X] [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - easy peasy virtualization
 * [X] [ImageOptim](https://imageoptim.com/mac) - optimize images and stuff
 
+## Maybe yes?
+
+* [ ] [Homebrew](http://brew.sh) - I'm thinking this may move back to the list
+
 ## Questionable
 
 * [ ] [Transmit](https://panic.com/transmit/) - may not need FTP client
-* [ ] [Homebrew](http://brew.sh) - package management for Mac; not sure if this is worth changing my install architecture
 * [ ] [Atom](https://atom.io) - GitHub's text editor; I think I'm sticking with Sublime Text for now
 * [ ] [CodeKit](https://codekitapp.com) - the "endorsements" on this page win the internet; I'm building a boilerplate that pretty much does what CK does without the .codekit files
 * [ ] [MAMP Pro](https://www.mamp.info/en/downloads/older-versions/) - replace with Docker containers
