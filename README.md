@@ -38,6 +38,7 @@ Stuff I'm installing on my new MacBook Pro
 ## Maybe yes?
 
 * [ ] [Homebrew](http://brew.sh) - I'm thinking this may move back to the list
+* [ ] [VS Code](https://code.visualstudio.com/) - possibly replace Sublime Text?
 
 ## Questionable
 
