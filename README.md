@@ -4,6 +4,7 @@ Stuff I'm installing on my new MacBook Pro
 * [X] [XCode](https://developer.apple.com/xcode/)
 * [X] [NVM](https://github.com/creationix/nvm)
 * [X] [Node](https://nodejs.org/en/) (`nvm install node`)
+* [X] [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 * [X] [Creative Cloud Desktop](https://www.adobe.com/creativecloud/desktop-app.html)
 * [X] Creative Cloud Apps (install via desktop app, assumes CC license)
   * [X] [Photoshop](http://www.adobe.com/products/photoshop.html)
