@@ -26,4 +26,4 @@ Stuff I'm installing on my new MacBook Pro
 * [X] [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - easy peasy virtualization
 * [X] [ImageOptim](https://imageoptim.com/mac) - optimize images and stuff
 * [X] [Maven](https://maven.apache.org) - Java bundler
-* [X] [Homebrew](http://brew.sh) - I'm thinking this may move back to the list
+* [X] [Homebrew](http://brew.sh) - install things easily
