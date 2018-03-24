@@ -2,7 +2,8 @@
 Stuff I'm installing on my new MacBook Pro
 
 * [X] [XCode](https://developer.apple.com/xcode/)
-* [X] [NVM](https://github.com/creationix/nvm)
+* [X] [Homebrew](http://brew.sh) - install things easily
+* [X] [NVM](https://github.com/creationix/nvm) - (don't install via `brew`)
 * [X] [Node](https://nodejs.org/en/) (`nvm install node`)
 * [X] [Yarn](https://yarnpkg.com/lang/en/docs/install/) - (`brew install yarn --without-node`)
 * [X] [Creative Cloud Desktop](https://www.adobe.com/creativecloud/desktop-app.html)
@@ -27,4 +28,3 @@ Stuff I'm installing on my new MacBook Pro
 * [X] [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - easy peasy virtualization
 * [X] [ImageOptim](https://imageoptim.com/mac) - optimize images and stuff
 * [X] [Maven](https://maven.apache.org) - Java bundler
-* [X] [Homebrew](http://brew.sh) - install things easily
